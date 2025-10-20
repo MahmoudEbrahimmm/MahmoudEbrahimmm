@@ -2,13 +2,11 @@
 
 Hi there! I'm **Mahmoud Ebrahim**, a passionate **Backend Developer** specializing in **Laravel** and modern **PHP** development. This README is designed for use in GitHub repositories to present a professional overview of my work, skills, and setup instructions.
 
----
 
 ## Portfolio
 
 **Personal Website:** [https://mahmoud-ebrahim.gt.tc/](https://mahmoud-ebrahim.gt.tc/)
 
----
 
 ## About Me
 
@@ -16,7 +14,6 @@ Hi there! I'm **Mahmoud Ebrahim**, a passionate **Backend Developer** specializi
 * **Role:** Backend Developer (Laravel)
 * **Summary:** I’m a dedicated backend engineer focused on building reliable, scalable, and secure web applications using Laravel and PHP. I enjoy crafting clean APIs and backend systems that power dynamic and high-performance applications.
 
----
 
 ## Technical Skills
 
@@ -36,7 +33,6 @@ Hi there! I'm **Mahmoud Ebrahim**, a passionate **Backend Developer** specializi
 **Tools & Utilities:**  
 - Composer, Artisan CLI, Postman  
 
----
 
 ## Featured Projects
 
@@ -60,7 +56,6 @@ Here are a few highlights from my GitHub portfolio:
 * **Online Shop (PHP Native)** — A lightweight store management system.
   🔗 [Repository](https://github.com/MahmoudEbrahimmm/online-shope-native)
 
----
 
 ## Common Features in My Projects
 
@@ -71,42 +66,6 @@ Here are a few highlights from my GitHub portfolio:
 * Multi-language support when required
 * Clean and maintainable code structure
 
----
-
-## How to Run My Laravel Projects Locally
-
-> Steps may vary by project, but here’s a general guide:
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone <repository-url>
-   cd <project-folder>
-   ```
-
-2. **Install dependencies:**
-
-   ```bash
-   composer install
-   cp .env.example .env
-   php artisan key:generate
-   ```
-
-3. **Configure your database** in `.env`, then run migrations and seeders if available:
-
-   ```bash
-   php artisan migrate --seed
-   ```
-
-4. **Start the local server:**
-
-   ```bash
-   php artisan serve
-   ```
-
-For **PHP Native** projects, simply place the folder inside your local server (e.g., XAMPP `htdocs`) and run it from the browser.
-
----
 
 ## Contact & Collaboration
 
@@ -118,12 +77,10 @@ For **PHP Native** projects, simply place the folder inside your local server (e
 
 I’m always open to collaboration, freelance work, or backend-focused roles. Feel free to reach out if you’d like to discuss a project or opportunity.
 
----
 
 ## License
 
 This repository is licensed under the **MIT License** — you’re free to use, modify, and share.
 
----
 
 > *Crafted with care to serve as a professional GitHub README showcasing my backend development

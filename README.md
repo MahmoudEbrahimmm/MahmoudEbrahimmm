@@ -107,9 +107,3 @@ I enjoy crafting clean APIs and backend systems that power dynamic and high-perf
 **Phone:** +20 1004976135  
 I’m always open to collaboration, freelance work, or backend-focused roles.  
 Feel free to reach out if you’d like to discuss a project or opportunity.
-
-
-## License
-
-This repository is licensed under the **MIT License** —  
-you’re free to use, modify, and share.

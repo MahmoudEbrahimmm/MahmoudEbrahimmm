@@ -49,8 +49,6 @@ Graduated from NTI Full-Stack PHP program, seeking Junior Backend/Laravel roles 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
 <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Livewire-22C55E?style=for-the-badge&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Blade-FD7E14?style=for-the-badge&logoColor=white"/> 
 </p>
 
 <p align="center">
@@ -67,10 +65,8 @@ Graduated from NTI Full-Stack PHP program, seeking Junior Backend/Laravel roles 
 <!-- Tools -->
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> 
-<img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> 
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> 
-<img src="https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Artisan-000000?style=for-the-badge&logo=laravel&logoColor=white"/> 
@@ -81,13 +77,13 @@ Graduated from NTI Full-Stack PHP program, seeking Junior Backend/Laravel roles 
 
 | Project | Description & Link |
 |---------|------------------|
-| **Tester-Care (Laravel 11)** | Product management & maintenance tracking system with CRUD, RBAC, and real-time notifications. <br> [![View Repository](https://img.shields.io/badge/View%20Repository-FF7F50%7EFF4500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MahmoudEbrahimmm/Tester-care) |
+| **Tester-Care (Laravel 11)** | Product management & maintenance tracking system with CRUD, RBAC, and real-time notifications. <br> [![View Repository](https://img.shields.io/badge/View%20Repository-FF7F50%7EFF4500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MahmoudEbrahimmm/Tester-care) [![Open in Postman](https://img.shields.io/badge/Open%20in%20Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://web.postman.co/workspace/My-Workspace~a5494b49-f2f4-4ec7-8258-cb72513fa45a/collection/38543342-ccd02da3-28cc-4fc7-9cb5-2c226f59bb00?action=share&source=copy-link&creator=38543342) [![Live Demo](https://img.shields.io/badge/Live%20Demo-FFB400?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tester-company.rf.gd/)|
 | **ForsaHub (Laravel 12)** | A professional job board web application built with Laravel 12 and MySQL for managing jobs, applications, and employer profiles. <br> [![View Repository](https://img.shields.io/badge/View%20Repository-FF7F50%7EFF4500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MahmoudEbrahimmm/ForsaHub.git) |
-| **Square Platform (Laravel 7)** | E-learning platform supporting multiple languages and RESTful APIs. <br> [![View Repository](https://img.shields.io/badge/View%20Repository-FF7F50%7EFF4500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MahmoudEbrahimmm/Square-platform) |
+| **Square Platform (Laravel 7)** | E-learning platform supporting multiple languages and RESTful APIs. <br> [![View Repository](https://img.shields.io/badge/View%20Repository-FF7F50%7EFF4500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MahmoudEbrahimmm/Square-platform)  [![Open in Postman](https://img.shields.io/badge/Open%20in%20Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://web.postman.co/workspace/My-Workspace~a5494b49-f2f4-4ec7-8258-cb72513fa45a/collection/38543342-e85ff42b-d051-4ab3-a399-1909b8d6aa3a?action=share&source=copy-link&creator=38543342) |
 | **InsightFlow (Laravel 11)** | Modern blogging platform with clean design, content management, and seamless interaction for writers and readers. <br> [![View Repository](https://img.shields.io/badge/View%20Repository-FF7F50%7EFF4500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MahmoudEbrahimmm/InsightFlow.git) |
 | **Shopping (PHP Native)** | Simple online store built with pure PHP and MySQL. <br> [![View Repository](https://img.shields.io/badge/View%20Repository-FF7F50%7EFF4500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MahmoudEbrahimmm/shopping-native) |
 | **Cart System (Laravel 11)** | Cart and checkout system integrated with Stripe payments. <br> [![View Repository](https://img.shields.io/badge/View%20Repository-FF7F50%7EFF4500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MahmoudEbrahimmm/Cart) |
-| **API-Authentication (Laravel 11)** | Laravel 11 RESTful API authentication system using Laravel Sanctum. <br> [![View Repository](https://img.shields.io/badge/View%20Repository-FF7F50%7EFF4500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MahmoudEbrahimmm/API-Authentcation.git) |
+| **API-Authentication (Laravel 11)** | Laravel 11 RESTful API authentication system using Laravel Sanctum. <br> [![View Repository](https://img.shields.io/badge/View%20Repository-FF7F50%7EFF4500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MahmoudEbrahimmm/API-Authentcation.git)  [![Open in Postman](https://img.shields.io/badge/Open%20in%20Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://web.postman.co/workspace/My-Workspace~a5494b49-f2f4-4ec7-8258-cb72513fa45a/collection/38543342-488d9f32-c8a9-40d6-b667-08001118baa1?action=share&source=copy-link&creator=38543342)|
 
 ---
 

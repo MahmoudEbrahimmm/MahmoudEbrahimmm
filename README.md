@@ -14,9 +14,6 @@
   <a href="https://linkedin.com/in/mahmoud-ebrahim-347057277" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Mahmoud%20Ebrahim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/MahmoudEbrahimmm" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-MahmoudEbrahimmm-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
 </p>
 
 ---
@@ -87,23 +84,6 @@ Graduated from NTI Full-Stack PHP program, seeking Junior Backend/Laravel roles 
 
 ---
 
-## Contact & Collaboration
-
-<p align="center">
-  <a href="https://mahmoud-ebrahim.kesug.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF6F00?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="https://github.com/MahmoudEbrahimmm" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mahmoud-ebrahim-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:mahmoud.backend.laravel@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
 <p align="center">
   <strong>Phone:</strong> +20 1004976135
 </p>
@@ -111,4 +91,16 @@ Graduated from NTI Full-Stack PHP program, seeking Junior Backend/Laravel roles 
 <p align="center">
 I’m always open to collaboration, freelance work, or backend-focused roles.  
 Feel free to reach out to discuss projects or opportunities.
+</p>
+
+<p align="center">
+  <a href="https://mahmoud-ebrahim.kesug.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF6F00?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mahmoud-ebrahim-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mahmoud.backend.laravel@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
